@@ -1,0 +1,14 @@
+
+                Outputs
+
+Decision Tree:-
+    Mean: 4.473607647846868
+    Standard Deviation 1.0969605362108785
+
+Linear Regession:-
+    Mean: 5.029848820077639
+    Standard Deviation 1.0598741247759622
+
+Random Forest:-
+    Mean: 3.3536565649755516
+    Standard Deviation 0.7325381684811694
